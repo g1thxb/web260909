@@ -1,4 +1,4 @@
-<h2 <a src="https://app.netlify.com/projects/limweb260909/overview"</a>내가 만든 넷트리파이</h2>
+<h2 <a href="https://app.netlify.com/projects/limweb260909/overview"</a>내가 만든 넷트리파이</h2>
 
 
 # 오늘의 주요 수업 내용
